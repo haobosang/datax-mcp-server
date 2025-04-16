@@ -16,4 +16,6 @@ source .venv/bin/activate
 
 uv add --default-index https://pypi.tuna.tsinghua.edu.cn/simple requests
 
+uv add requests fastmcp
+
 ```
