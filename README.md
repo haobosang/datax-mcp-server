@@ -1,4 +1,4 @@
-# datax MCP Server
+# Datax MCP Server
 
 ## ✨ Core Features
 
