@@ -1,5 +1,6 @@
 # Datax MCP Server
 
+Datax is an intelligent data analysis tool designed for the AI era, enabling users to interact with data through natural language to effortlessly gain deep business insights and predictive analytics.
 ## ✨ Core Features
 
 - 🔎 **Data Search**:
